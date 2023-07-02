@@ -1,7 +1,6 @@
 title: Curriculum
-date: 09/05/2021
+date: 02/07/2023
 author: Cristiano Balducci
-status: hidden
 ## Cristiano Balducci
 
 |   |   |
