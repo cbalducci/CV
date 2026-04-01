@@ -6,7 +6,7 @@ author: Cristiano Balducci
 |   |   |
 |-|-|
 | **Nationality** | Italian |
-| **Address** | Carrer de Maspons 28, 08012, Barcelona, Catalunya, Spain |
+| **Address** | Carrer de Torrent de l'Olla 210, 2a, 08012, Barcelona, Spain |
 | **Phone** | +34 626327674 |
 | **Email** | cristiano.balducci@gmail.com |
 
@@ -25,24 +25,30 @@ All while delivering high quality software, at pace.
 **Coach**, **excellent communicator**, enthusiastic about **team dynamics** and **team performances**, passionate about **Agile**.
 I am a driven individual that highly regards **transparency** and **dependability**.
 
-My mixed background in system and software engineering allowed me to develop strong **problem solving** toolbox. My further career development into engineering leadership gave me the opportunity to build and lead **high performance teams** of different shapes and sizes.
+My mixed background in system and software engineering allowed me to develop strong **problem solving** toolbox. My further career development into engineering leadership gave me the opportunity to build and lead **high performance teams** of different shapes and sizes. Having worked as **Head of Design** allowed me to further spread my experience across different disciplines.
 
 My main **leadership styles** are **coaching** and **democratic**. I enjoy helping people thinking about how to solve problems and I am deeply convinced that a high performance team is one where there is **trust** and **psychological safety**.
 
 ### Languages
-**Advanced**: Italian, English
+**Advanced**: Italian, English, Spanish
 
-**Intermediate**: Spanish
-
-**Beginner**: Catalan
+**Intermediate**: Catalan
 
 ## Experience
 
-### Software Engineering Manager @ Spotify
-_02/2022 - Present_
+### Head of Engineering and Head of Design @ Soundtrap
+_09/2023 - Present_
+
+After the spin off of Soundtrap from Spotify, I am leading Soundtrap's Engineering department. My focus is on healthy, high performing teams that achieve great business outcomes. As part of this, I have restructured our organisational model for R&D, reducing the team size to 3 engineers. This change was implemented in 2024, with special considerations on the interplay with (at the time) future improved Assisted Coding techonlogies. 
+Thanks to this new model, we managed to punch way above our weight, being an R&D department of only 30 people. Under my leadership we almost doubled our delivery rate compared with when we were part of Spotify, with a team less than half the size. 
+In my capacity as Head of Design, I lead a full product UI and UX refresh that was completed in just 3 months of focused work. This UI/UX refresh achieved stellar feedback from the users and a 5% increase in Conversion Rate. 
+Right now my focus is guiding my organisations through the Agentic AI adoption journey with special attention to the right balance between speed and quality, as always. 
+
+### Senior Software Engineering Manager @ Spotify
+_02/2022 - 09/2023_
 
 Hired as Engineering Manager for the Growth squad at Soundtrap, Spotify's online Digital Audio Workstation offering. Guided the team from working in silos to being the tribe's best performing squad whilst increasing their scope. Tasked to work with an additional squad on a C-level sponsored exploratory work stream (under NDA), which delivered on time. Moved to Engineering Lead for the Music Maker business unit in Soundtrap. Managed 4 squads for a total of 18 people, between software engineers and managers. Built a successful promotion case to Senior Engineering Manager with just 1 year of tenure in the company.
-First time working on a purely frontend team. First time working in Head of Engineering capacity for a whole Product Area.
+First time working on a purely frontend team. First time working in Engineering Lead capacity for a whole Product Area.
 Learnt a LOT about business metrics, product outcomes and how to manage managers.
 
 ### Software Engineering Manager @ Kaluza 
