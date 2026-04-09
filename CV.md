@@ -39,10 +39,10 @@ My main **leadership styles** are **coaching** and **democratic**. I enjoy helpi
 ### Head of Engineering and Head of Design @ Soundtrap
 _09/2023 - Present_
 
-After the spin off of Soundtrap from Spotify, I am leading Soundtrap's Engineering department. My focus is on healthy, high performing teams that achieve great business outcomes. As part of this, I have restructured our organisational model for R&D, reducing the team size to 3 engineers. This change was implemented in 2024, with special considerations on the interplay with (at the time) future improved Assisted Coding techonlogies. 
-Thanks to this new model, we managed to punch way above our weight, being an R&D department of only 30 people. Under my leadership we almost doubled our delivery rate compared with when we were part of Spotify, with a team less than half the size. 
-In my capacity as Head of Design, I lead a full product UI and UX refresh that was completed in just 3 months of focused work. This UI/UX refresh achieved stellar feedback from the users and a 5% increase in Conversion Rate. 
-Right now my focus is guiding my organisations through the Agentic AI adoption journey with special attention to the right balance between speed and quality, as always. 
+After the spin-off of Soundtrap from Spotify, I am leading Soundtrap's Engineering department. My focus is on healthy, high-performing teams that achieve great business outcomes. As part of this, I have restructured our organisational model for R&D, reducing the team size to 3 engineers. This change was implemented in 2024, with special considerations on the interplay with (at the time) future improved Assisted Coding technologies.
+Thanks to this new model, we managed to punch way above our weight, being an R&D department of only 30 people. Under my leadership we have shipped over 300 deliverables in under 3 years, almost doubling our delivery rate compared with when we were part of Spotify, with a team less than half the size. I nourish a strong experimentation culture, with dozens of A/B and multivariate tests running every quarter, producing measured outcomes like +24% conversion on targeted plans, +8% organic App Store downloads, and a 2% overall CVR lift from the Vocal Tuner rollout.
+In January 2025 I also took on the Head of Design role. In this capacity, I have led a full product UI and UX refresh ("Remastered") that was completed in just 3 months of focused work, including a new mobile app, Mac desktop app rollout to 100% of consumers, and Dark Theme. The refresh achieved stellar feedback from the users and a 5% increase in Conversion Rate.
+Right now my focus is guiding my organisations through the Agentic AI adoption journey with special attention to the right balance between speed and quality, as always.
 
 ### Senior Software Engineering Manager @ Spotify
 _02/2022 - 09/2023_
